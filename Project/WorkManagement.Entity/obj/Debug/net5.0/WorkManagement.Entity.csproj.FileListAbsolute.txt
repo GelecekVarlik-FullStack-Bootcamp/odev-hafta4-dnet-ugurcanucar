@@ -1,0 +1,15 @@
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\bin\Debug\net5.0\WorkManagement.Entity.deps.json
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\bin\Debug\net5.0\WorkManagement.Entity.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\bin\Debug\net5.0\WorkManagement.Entity.pdb
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.csproj.AssemblyReference.cache
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.AssemblyInfoInputs.cache
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.AssemblyInfo.cs
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.csproj.CoreCompileInputs.cache
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\refint\WorkManagement.Entity.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.pdb
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\ref\WorkManagement.Entity.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\bin\Debug\net5.0\WorkManagement.Entity.runtimeconfig.json
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\bin\Debug\net5.0\WorkManagement.Entity.runtimeconfig.dev.json
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Entity\obj\Debug\net5.0\WorkManagement.Entity.genruntimeconfig.cache

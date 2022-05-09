@@ -1,0 +1,15 @@
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\bin\Debug\net5.0\WorkManagement.Interface.deps.json
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\bin\Debug\net5.0\WorkManagement.Interface.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\bin\Debug\net5.0\WorkManagement.Interface.pdb
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.csproj.AssemblyReference.cache
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.AssemblyInfoInputs.cache
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.AssemblyInfo.cs
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.csproj.CoreCompileInputs.cache
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\refint\WorkManagement.Interface.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.pdb
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\ref\WorkManagement.Interface.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\bin\Debug\net5.0\WorkManagement.Entity.dll
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\bin\Debug\net5.0\WorkManagement.Entity.pdb
+C:\Bootcamp Projects\WorkManagementSystem\WorkManagement.Interface\obj\Debug\net5.0\WorkManagement.Interface.csproj.CopyComplete
