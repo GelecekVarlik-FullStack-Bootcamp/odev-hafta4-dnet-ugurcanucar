@@ -1,14 +1,14 @@
-# Week - NULL
-
-`Hafta veya Ödev Sayısı (NULL değiştir)`
+# Week - 4
 
 # Homework
 
-`Ödev`
+`İş Yönetim Sistemi`
 
 ## Homework Description
 
-`Ödev Açıklaması `
+- Bir işyerindeki iş takiplerinin yapılabilmesi için geliştirilecek uygulamadır
+- Program, küçük veya orta ölçekli işyerlerine hitap edecektir
+- İlgili kişiler tarafından işlerin açılması ve işi alan veya iş atanan kişinin işi çözmesi beklenmektedir.
 
 ## Author
 
