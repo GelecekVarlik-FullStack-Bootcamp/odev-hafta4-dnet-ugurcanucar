@@ -1,8 +1,4 @@
-# Week - 4
-
-# Homework
-
-`İş Yönetim Sistemi`
+# Week - 4 / Work Management System
 
 ## Homework Description
 
